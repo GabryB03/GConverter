@@ -13,8 +13,8 @@ using LegitHttpClient;
 public partial class MainForm : MetroForm
 {
     public string[] audioFormats = new string[] { "mp3", "wav", "ogg", "m4a", "aac", "flac", "pcm", "aiff", "wma", "alac" };
-    public string[] videoFormats = new string[] { "avi", "webm", "mpeg", "mp4", "swf", "mkv", "mov", "wmv", "flv", "avchd", "3gp" };
-    public string[] imageFormats = new string[] { "jpg", "png", "bmp", "ico", "jpeg", "tif", "jfif", "jpe", "rle", "dib", "svg", "svgz", "gif", "webp" };
+    public string[] videoFormats = new string[] { "avi", "webm", "mpeg", "mp4", "swf", "mkv", "mov", "wmv", "flv", "avchd", "3gp", "ts" };
+    public string[] imageFormats = new string[] { "jpg", "png", "bmp", "ico", "jpeg", "tif", "tiff", "jfif", "jpe", "rle", "dib", "svg", "svgz", "gif", "webp" };
    
     public static string ffmpegPrepend = "", threadCommand = "";
 

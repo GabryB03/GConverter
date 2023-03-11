@@ -42,25 +42,24 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="BrotliSharpLib">
-      <HintPath>..\LegitHttpClient\bin\Release\BrotliSharpLib.dll</HintPath>
+      <HintPath>..\..\..\..\..\Generali\GConverter\BrotliSharpLib.dll</HintPath>
     </Reference>
     <Reference Include="Guna.UI">
-      <HintPath>..\NebulaSpammer\bin\Release\Guna.UI.dll</HintPath>
+      <HintPath>..\..\..\..\..\Generali\GConverter\Guna.UI.dll</HintPath>
     </Reference>
     <Reference Include="LegitHttpClient">
-      <HintPath>..\LegitHttpClient\bin\Release\LegitHttpClient.dll</HintPath>
+      <HintPath>..\..\..\..\..\Generali\GConverter\LegitHttpClient.dll</HintPath>
     </Reference>
     <Reference Include="MetroSuite 2.0">
-      <HintPath>..\NebulaSpammer\bin\Release\MetroSuite 2.0.dll</HintPath>
+      <HintPath>..\..\..\..\..\Generali\GConverter\MetroSuite 2.0.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.VisualBasic" />
-    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\NebulaSpammer\bin\Release\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\..\Generali\GConverter\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Siticone.UI">
-      <HintPath>..\NebulaSpammer\bin\Release\Siticone.UI.dll</HintPath>
+      <HintPath>..\..\..\..\..\Generali\GConverter\Siticone.UI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
